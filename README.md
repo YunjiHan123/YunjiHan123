@@ -70,29 +70,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YunjiHan123&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunjiHan123&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🧩 Baekjoon
 
 <p align="center">
   <a href="https://solved.ac/백준아이디">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj9908" alt="Solved.ac Profile"/>
   </a>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunjiHan123&theme=tokyo-night"/>
 </p>
 
 ---
