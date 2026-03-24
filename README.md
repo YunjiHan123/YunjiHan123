@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://solved.ac/백준아이디">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj9908@gmail.com" alt="Solved.ac Profile"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj9908" alt="Solved.ac Profile"/>
   </a>
 </p>
 
